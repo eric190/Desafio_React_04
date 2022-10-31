@@ -1,0 +1,14 @@
+import Header from "../../components/Header";
+
+function Teste() {
+  return (
+    <div className="app">
+      <Header />
+
+      <h1>VOCÊ ESTÁ NA PÁGINA TESTE</h1>
+
+    </div>
+  )
+}
+
+export default Teste
