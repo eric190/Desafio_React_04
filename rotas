@@ -1,0 +1,14 @@
+import Header from "../../components/Header";
+
+function Rotas() {
+  return (
+    <div className="app">
+      <Header />
+
+      <h1>VOCÊ ESTÁ NA PÁGINA ROTAS</h1>
+
+    </div>
+  )
+}
+
+export default Rotas
